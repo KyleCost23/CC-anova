@@ -19,13 +19,15 @@ This is the repository for the practice data on ANOVA from the [Coding Club](htt
 #### Practice learning objectives:
 
 
-- How to tidy your data
+- Tidy your data
 
-- How to run a simple one-way ANOVA with `lm`
+- Run a simple one-way ANOVA with `lm`
 
-- How to read and interpret ANOVA outputs
+- Check the model assumptions
 
-- How to communicate and visualise your results
+- Read and interpret ANOVA outputs
+
+- Communicate and visualise your results: suggestion produce a simple document using Rmarkdown with a very brief Results section; two or three line write-up and a figure with figure legend.  
 
 
 ## **Licences**
@@ -36,9 +38,9 @@ This is the repository for the practice data on ANOVA from the [Coding Club](htt
 
 ## **Requirements**
 
-- Software: R  
+- Software: R & RStudio
 
-- Suggested packages: `tidyverse` range of packages, `emmeans`, `broom`
+- Suggested packages: `tidyverse` range of packages, `emmeans`, `broom`, `performance`.
 
 
 
