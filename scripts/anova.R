@@ -1,4 +1,0 @@
-library(usethis)
-121231455165
-#token
-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
